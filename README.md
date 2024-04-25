@@ -9,7 +9,7 @@ My Name Is ***Ethan***!
 ---------------------------------------------------------------------------------------
 ## Languages I Know
 
-[![Languages I Know!](https://skillicons.dev/icons?i=js,html,css,nodejs,react,three)](https://skillicons.dev)
+[![Languages I Know!](https://skillicons.dev/icons?i=js,html,css,nodejs,react,threejs)](https://skillicons.dev)
 
 - I Am Working On Getting My Web Development Certificate!
 
